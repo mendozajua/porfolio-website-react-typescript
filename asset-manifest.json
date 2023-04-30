@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/porfolio-website-react-typescript/static/css/main.9a627e50.css",
+    "main.js": "/porfolio-website-react-typescript/static/js/main.8f19bda9.js",
+    "static/js/787.301628f9.chunk.js": "/porfolio-website-react-typescript/static/js/787.301628f9.chunk.js",
+    "static/media/Mufasa_cattower.jpg": "/porfolio-website-react-typescript/static/media/Mufasa_cattower.4feba55af22327d15743.jpg",
+    "static/media/GodzillaSleep.jpg": "/porfolio-website-react-typescript/static/media/GodzillaSleep.85a67b9cbb3e10d9bf70.jpg",
+    "static/media/CuriousNagini.jpg": "/porfolio-website-react-typescript/static/media/CuriousNagini.c32a3e4b5b71946f4622.jpg",
+    "static/media/ZuzuTongueOut.jpg": "/porfolio-website-react-typescript/static/media/ZuzuTongueOut.79e2b243e3e4fedded97.jpg",
+    "static/media/Medusa_HangingOut.jpg": "/porfolio-website-react-typescript/static/media/Medusa_HangingOut.f2b3de91c2fb00eb302a.jpg",
+    "static/media/Kratos_peri_zoomedOut.jpg": "/porfolio-website-react-typescript/static/media/Kratos_peri_zoomedOut.5598a382e686327cfac9.jpg",
+    "static/media/color-sharp.png": "/porfolio-website-react-typescript/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/porfolio-website-react-typescript/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/CentraNo2-Bold.ttf": "/porfolio-website-react-typescript/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/porfolio-website-react-typescript/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/porfolio-website-react-typescript/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/reptile-space.png": "/porfolio-website-react-typescript/static/media/reptile-space.cea2ba9187267c4d6c01.png",
+    "static/media/footer-bg.png": "/porfolio-website-react-typescript/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/minimalist-nautre.jpg": "/porfolio-website-react-typescript/static/media/minimalist-nautre.c4452afaf76d210d6ac1.jpg",
+    "index.html": "/porfolio-website-react-typescript/index.html",
+    "static/media/nav-icon1.svg": "/porfolio-website-react-typescript/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.9a627e50.css.map": "/porfolio-website-react-typescript/static/css/main.9a627e50.css.map",
+    "main.8f19bda9.js.map": "/porfolio-website-react-typescript/static/js/main.8f19bda9.js.map",
+    "787.301628f9.chunk.js.map": "/porfolio-website-react-typescript/static/js/787.301628f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a627e50.css",
+    "static/js/main.8f19bda9.js"
+  ]
+}
